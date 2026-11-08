@@ -16,7 +16,7 @@ You need to create an account on the Refract app for use this widget
 
 ## ⚙️ Installation
 ```sh
-kpackagetool6 -t Plasma/Applet -u ~/Scaricati/refractwatch.plasmoid
+kpackagetool6 -t Plasma/Applet -u ~/Download/refractwatch.plasmoid
 systemctl --user restart plasma-plasmashell.service
 ```
 
