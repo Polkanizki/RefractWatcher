@@ -24,7 +24,7 @@ systemctl --user restart plasma-plasmashell.service
 - ### 📺 Monitoring
     ![](https://github.com/Polkanizki/RefractWatcher/blob/main/samples/RefractWidget1.png?raw=true)
     ![](https://github.com/Polkanizki/RefractWatcher/blob/main/samples/RefractWidget2.png?raw=true)
-- ### Setup
+- ### 🎚️ Setup
     ![](https://github.com/Polkanizki/RefractWatcher/blob/main/samples/RefractWidget3.png?raw=true)
 - ### ✅ Sign as seen
     ![](https://github.com/Polkanizki/RefractWatcher/blob/main/samples/RefractWidget6.png?raw=true)
